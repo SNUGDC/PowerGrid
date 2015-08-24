@@ -35,6 +35,8 @@
     <script>scripts\sc_enemystep.gml</script>
     <script>scripts\sc_enemycre.gml</script>
     <script>scripts\sc_enemycollision.gml</script>
+    <script>scripts\sc_waveeditor.gml</script>
+    <script>scripts\sc_wavecontrol.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\font0</font>
