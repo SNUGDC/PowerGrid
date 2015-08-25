@@ -16,6 +16,7 @@
     <sprite>sprites\sp_normal</sprite>
     <sprite>sprites\sp_veryhard</sprite>
     <sprite>sprites\sp_enemy00</sprite>
+    <sprite>sprites\sp_underbar</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -60,6 +61,8 @@
     <object>objects\obj_enemymaker05</object>
     <object>objects\obj_enemy00_0</object>
     <object>objects\obj_enemy00_1</object>
+    <object>objects\obj_wavecontrol</object>
+    <object>objects\obj_underbar</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>

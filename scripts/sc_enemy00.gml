@@ -1,7 +1,7 @@
 global.wavetotal = 10;
 global.wavetotal2 = 6;
 //
-global.waveorder = 5;
+global.waveorder = 0;
 //
 global.enemy00 = 0;
 global.enemy01 = 0;
