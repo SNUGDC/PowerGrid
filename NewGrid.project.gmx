@@ -4,7 +4,9 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sound0</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\sp_power</sprite>
     <sprite>sprites\sp_grid01</sprite>
@@ -45,6 +47,8 @@
   <objects name="objects">
     <object>objects\obj_power</object>
     <object>objects\obj_grid01</object>
+    <object>objects\obj_grid02</object>
+    <object>objects\obj_grid03</object>
     <object>objects\obj_tower_L</object>
     <object>objects\obj_tower_R</object>
     <object>objects\obj_gm00</object>
